@@ -2,7 +2,7 @@
 this is a simple social media network with django that you can do the following in this website :- 
 
 
-* create you account then login or logout
+* create your account then login or logout
 * create group
 * post your posts in group that you joined
 * you can leave or join group
@@ -38,4 +38,4 @@ just open the directory of project in the terminal then do the followin blew :-
 https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview
 I made this project by following this course step by step
 
-# That`s it Cool
+# That's it Cool
