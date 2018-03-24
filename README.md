@@ -37,5 +37,3 @@ just open the directory of project in the terminal then do the followin blew :-
 
 https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview
 I made this project by following this course step by step
-
-# That's it Cool
